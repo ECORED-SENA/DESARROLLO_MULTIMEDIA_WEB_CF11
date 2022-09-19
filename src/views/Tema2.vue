@@ -9,7 +9,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-7.order-2.order-lg-1(data-aos="fade")
-        p Permiten realizar aplicativos, programas, rutinas, utilitarios y sistemas para que la parte física del computador u ordenador, funcione y pueda producir resultados. Para comprender mejor el tema se dará un recorrido conceptual por herramientas como Unity y FrameWorks, además de las buenas prácticas de programación:
+        p Permiten realizar aplicativos, programas, rutinas, utilitarios y sistemas para que la parte física del computador u ordenador, funcione y pueda producir resultados. Para comprender mejor el tema se dará un recorrido conceptual por herramientas como Unity y #[em FrameWorks], además de las buenas prácticas de programación:
       .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t2/t2_01.svg", alt="alt")
@@ -22,7 +22,7 @@
               figure
                 img(src="@/assets/curso/temas/t2/t2_02.png", alt="alt")
             .col-lg-9(data-aos="fade")
-              p Es un motor de desarrollo para la creación de videojuegos; el término “game engine” hace referencia a una serie de códigos o rutinas que permiten diseñar y crear entornos interactivos en tiempo real, mediante programación vía código, y editores visuales. Una de las herramientas y de los puntos que sobresalen es la gran comunidad que permiten tener acceso a documentos y un sin número de foros, donde se resuelven dudas y se explican temas de programación y diseño 2D y 3D. 
+              p Es un motor de desarrollo para la creación de videojuegos; el término #[em “game engine”] hace referencia a una serie de códigos o rutinas que permiten diseñar y crear entornos interactivos en tiempo real, mediante programación vía código, y editores visuales. Una de las herramientas y de los puntos que sobresalen es la gran comunidad que permiten tener acceso a documentos y un sin número de foros, donde se resuelven dudas y se explican temas de programación y diseño 2D y 3D. 
 
           .row.justify-content-center.mb-4
             .col-lg-5.mb-4.mb-lg-0(data-aos="zoom-in")
@@ -34,15 +34,15 @@
 
           .row.justify-content-center
             .col-12(data-aos="fade")
-              p Su motor de trabajo es tal que pueden trabajar un diseñador y un programador sobre un mismo proyecto, desde ubicaciones diferentes, elementos de testeo y funcionalidades sólidas, hacen de Unity una potente herramienta para los diseñadores y programadores de videojuegos; además, cuenta con un amplio sistema de seguridad que protege la propiedad intelectual de toda su comunidad, y gracias a su herramienta multiplataforma se puede compartir en más de veinte sistemas operativos, desde celulares, consolas, realidad virtual y aumentada, páginas web, video, etc.
+              p Su motor de trabajo es tal que pueden trabajar un diseñador y un programador sobre un mismo proyecto, desde ubicaciones diferentes, elementos de testeo y funcionalidades sólidas, hacen de Unity una potente herramienta para los diseñadores y programadores de videojuegos; además, cuenta con un amplio sistema de seguridad que protege la propiedad intelectual de toda su comunidad, y gracias a su herramienta multiplataforma se puede compartir en más de veinte sistemas operativos, desde celulares, consolas, realidad virtual y aumentada, páginas #[em web], video, etc.
 
-              p Por último, y no menos importante, las diferentes tecnologías permiten renderizados de última generación y programables que optimizar el rendimiento gracias a su Canal de Renderizado Codificable, lo que permite a los desarrolladores emplear plantillas y herramientas que ofrecen soluciones y resoluciones dignas de softwares de última generación. 
+              p Por último, y no menos importante, las diferentes tecnologías permiten renderizados de última generación y programables que optimizar el rendimiento gracias a su Canal de Renderizado Codificable, lo que permite a los desarrolladores emplear plantillas y herramientas que ofrecen soluciones y resoluciones dignas de #[em software] de última generación. 
 
     .bg--paleYellow.p-4.brad_02.mb-5
       .row.justify-content-center
         .col-lg-10.py-4
-          h5(data-aos="fade") Framework
-          p(data-aos="fade") Un framework es una plantilla que cuenta con mucha información como herramientas, guías y diferentes componentes y ayudan a agilizar procesos, un #[em framework] es una herramienta que guiará y conducirá en gran parte el proceso o proyecto, ya que se basará las estructuras que se utilizarán en cada proyecto. Trabajan como elementos clave que ahorrarán tiempo en la construcción de código básico y que ya está construido en otros proyectos, construyendo aplicaciones rápidas y sólidas, entendiendo que para su utilización se debe conocer que elementos trabaja, que lenguajes, etc., para así hacer más sencillo su funcionalidad, ya que no vale la pena aventurarse en cualquier #[em framework] por que sí.
+          h5(data-aos="fade") #[em Framework]
+          p(data-aos="fade") Un #[em framework] es una plantilla que cuenta con mucha información como herramientas, guías y diferentes componentes y ayudan a agilizar procesos, un #[em framework] es una herramienta que guiará y conducirá en gran parte el proceso o proyecto, y que se basará las estructuras que se utilizarán en cada proyecto. Trabajan como elementos clave que ahorrarán tiempo en la construcción de código básico y que ya está construido en otros proyectos, construyendo aplicaciones rápidas y sólidas, entendiendo que para su utilización se debe conocer que elementos trabaja, que lenguajes, etc., para así hacer más sencillo su funcionalidad, ya que no vale la pena aventurarse en cualquier #[em framework] por que sí.
 
           p(data-aos="fade").mb-5 Dada a la facilidad de trabajo poseen gran documentación y una comunidad siempre activa a buscar soluciones a los problemas, ya que disponen de grandes foros donde desarrolladores ayudan a solucionar y corregir los #[em framework] más utilizados, esto permite que se reduzca cada vez más la incidencia de los errores y a su vez crear un código cada vez más estable y estándar, existe una gran lista que cabe la pena conocer, así que dejamos una lista de información importante al momento de trabajar con ellos.
           
@@ -86,7 +86,7 @@
                         | Rails, para Ruby.
                       li
                         i.fa-li.fas.fa-check.clr--orange
-                        | Net Framework, para plataforma .Net.
+                        | #[em Net Framework], para plataforma .Net.
                       li
                         i.fa-li.fas.fa-check.clr--orange
                         | Django, para Python.
@@ -95,7 +95,7 @@
                         | Express, para Node.js.
                       li
                         i.fa-li.fas.fa-check.clr--orange
-                        | Ionic, para crear aplicaciones mobile.
+                        | Ionic, para crear aplicaciones #[em mobile].
                       li
                         i.fa-li.fas.fa-check.clr--orange
                         | Struts, para Java.

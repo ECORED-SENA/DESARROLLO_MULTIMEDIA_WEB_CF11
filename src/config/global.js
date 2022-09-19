@@ -47,7 +47,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '1',
         titulo:
-          'Entornos y herramientas de codificación para el desarrollo de proyectos web',
+          'Entornos y herramientas de codificación para el desarrollo de proyectos <em>web</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -107,7 +107,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Servicios web',
+            titulo: 'Servicios <em>web</em>',
             hash: 't_3_2',
           },
         ],
@@ -156,19 +156,21 @@ export default {
   complementario: [
     {
       tema: 'Lenguajes de Programación',
-      referencia: 'MDN Web Docs. (s.f.). Referencia de Atributos HTML.',
-      tipo: 'Sitio web',
+      referencia:
+        'MDN <em>web</em> Docs. (s.f.). Referencia de Atributos HTML.',
+      tipo: 'Sitio <em>web</em>',
       link: 'https://developer.mozilla.org/es/docs/Web/HTML/Attributes',
     },
     {
-      tema: 'Fundamentos de Programación.',
-      referencia: 'Digital Learning. (2019). Ventanas emergentes y pop up.',
+      tema: 'Fundamentos de Programación',
+      referencia:
+        '<em>Digital Learning</em>. (2019). Ventanas emergentes y pop up.',
       tipo: 'Video',
       link: 'https://player.vimeo.com/video/163927259',
     },
     {
       tema: 'Herramientas de Programación',
-      referencia: 'EDTeam. (2018). FrameWork vs Librería.',
+      referencia: 'EDTeam. (2018). <em>FrameWork</em>vs Librería.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=A-iKX8Shge4',
     },
@@ -223,7 +225,7 @@ export default {
     {
       termino: '<em>FrontEnd</em>',
       significado:
-        'parte visible de una aplicación o página web; la parte a la que el usuario tiene acceso, desde su diseño hasta su contenido. ',
+        'parte visible de una aplicación o página <em>web</em>; la parte a la que el usuario tiene acceso, desde su diseño hasta su contenido. ',
     },
     {
       termino: 'Kanban',
@@ -280,7 +282,7 @@ export default {
     },
     {
       referencia:
-        'Código Naranja. (2021). ¿Qué es RESTful Web Service? y ¿qué es REST? ',
+        'Código Naranja. (2021). ¿Qué es RESTful <em>web</em> Service? y ¿qué es REST? ',
       link: 'https://codigonaranja.com/restful-web-service ',
     },
     {

@@ -7,12 +7,12 @@
         span 3
       h1 Metodologías ágiles de desarrollo
 
-    p(data-aos="fade") Las metodologías ágiles son un procedimiento opcional en la administración de proyectos que sirven para obtener información de manera más ágil en un proyecto. Estas metodologías analizan el enfoque durante su estructura de creación. En el proceso de implementación de las metodologías ágiles el grupo de trabajo organiza reuniones denominadas sprint o iteraciones, estas reuniones ayudan a incorporar la manera de trabajo a la estructura del proyecto, obteniendo una respuesta pronta para organizar el proyecto y a su vez el desarrollo a las condiciones particulares del entorno. Las empresas que implementan estas metodologías pueden administrar sus proyectos de manera adaptable, independiente y eficiente optimizando recursos y aumentando la productividad.
+    p(data-aos="fade") Las metodologías ágiles son un procedimiento opcional en la administración de proyectos que sirven para obtener información de manera más ágil en un proyecto. Estas metodologías analizan el enfoque durante su estructura de creación. En el proceso de implementación de las metodologías ágiles el grupo de trabajo organiza reuniones denominadas #[em sprint] o iteraciones, estas reuniones ayudan a incorporar la manera de trabajo a la estructura del proyecto, obteniendo una respuesta pronta para organizar el proyecto y a su vez el desarrollo a las condiciones particulares del entorno. Las empresas que implementan estas metodologías pueden administrar sus proyectos de manera adaptable, independiente y eficiente optimizando recursos y aumentando la productividad.
 
     separador
 
     #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade")
-      h2 3.1 Entorno de desarrollo
+      h2 3.1 Metodologías ágiles de desarrollo y marcos de trabajo para la gestión de proyectos multimedia
 
     .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade")
@@ -29,7 +29,18 @@
         h3.custom-H3 Scrum
 
     p(data-aos="fade") Es un conjunto de prácticas relacionadas con las metodologías ágiles, permiten desarrollar proyectos o productos de alcance innovativo y con un alto nivel de complejidad, el concepto de las metodologías ágiles está basado en la división de los proyectos de etapas cortas, en las que se llevan procesos de análisis, mejora la adaptación continua y entrega de productos parciales con un alto valor para la organización.
-    p(data-aos="fade").mb-5 Scrum, está estructurado para apoyar el desarrollo de procesos y productos en todo tipo de industria y proyectos independientemente de su complejidad, para lo que se vale de tres campos de conocimientos.
+    p(data-aos="fade") Scrum, está estructurado para apoyar el desarrollo de procesos y productos en todo tipo de industria y proyectos independientemente de su complejidad, para lo que se vale de tres campos de conocimientos:
+
+    ul.fa-ul.mb-0.ps-4.mb-5
+      li
+        i.fa-li.fas.fa-check.clr--orange
+        | Los principios o valores
+      li
+        i.fa-li.fas.fa-check.clr--orange
+        | Los procesos.
+      li
+        i.fa-li.fas.fa-check.clr--orange
+        | Los aspectos.      
 
     
     .row.justify-content-center.mb-5
@@ -57,7 +68,7 @@
             | Diseñar el producto de manera progresiva.
           li
             i.fa-li.fas.fa-check.clr--orange
-            | Repetir de manera progresiva hasta que el cliente concluye el desarrollo del proyecto.
+            | Repetir de manera progresiva hasta que el cliente concluya el desarrollo del proyecto.
 
       .col-lg-1
       .col-lg-3.d-none.d-lg-flex(data-aos="zoom-in")
@@ -87,7 +98,7 @@
 
           .row(numero="3" titulo="Adaptación")
             .col
-              p En el proceso Scrum resultan cambios, el grupo de trabajo se adecua con el fin de cumplir con los objetivos del sprint, es fundamental para obtener los resultados del proyecto.   
+              p En el proceso Scrum resultan cambios, el grupo de trabajo se adecua con el fin de cumplir con los objetivos del #[em sprint], es fundamental para obtener los resultados del proyecto.   
             
       .col-lg-6.col-8(data-aos="zoom-in")
         figure
@@ -112,11 +123,11 @@
          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="<em>Sprint</em>")
             .col
-              p El término sprint hace relación a un tiempo que se define para realizar las tareas programadas. Con el equipo de trabajo se organiza el tiempo, en la reunión del grupo involucrado en el <em>sprint</em> se definen los temas del día, el objetivo es definir los temas a desarrollar en el sprint y su correspondiente entrega. Normalmente la duración máxima es de 30 días. Este tiempo se define de acuerdo a la comunicación que el cliente desea obtener con el grupo.  
+              p El término #[em sprint] hace relación a un tiempo que se define para realizar las tareas programadas. Con el equipo de trabajo se organiza el tiempo, en la reunión del grupo involucrado en el #[em sprint] se definen los temas del día, el objetivo es definir los temas a desarrollar en el #[em sprint] y su correspondiente entrega. Normalmente la duración máxima es de 30 días. Este tiempo se define de acuerdo a la comunicación que el cliente desea obtener con el grupo.  
 
           .row(titulo="<em>Sprints planning</em>")
             .col
-              p Es la reunión que se hace al comienzo de cada <em>sprint</em>, en esta reunión el grupo Scrum organiza qué temas van a tratar y el objetivo del <em>sprint</em>, esta primera reunión puede durar 8 horas en promedio en un sprint de un mes. En esta primera reunión en grupo de trabajo se plantea qué van hacer y cómo lo va hacer. En relación con esto se definen labores y el grupo de diseño, además, se organizan temas importantes para profundizar cada tema; esto implica que el grupo defina un objetivo y se comprometa con entrega de valor al cliente.         
+              p Es la reunión que se hace al comienzo de cada <em>sprint</em>, en esta reunión el grupo Scrum organiza qué temas van a tratar y el objetivo del <em>sprint</em>, esta primera reunión puede durar 8 horas en promedio en un <em>sprint</em> de un mes. En esta primera reunión en grupo de trabajo se plantea qué van hacer y cómo lo va hacer. En relación con esto se definen labores y el grupo de diseño, además, se organizan temas importantes para profundizar cada tema; esto implica que el grupo defina un objetivo y se comprometa con entrega de valor al cliente.         
 
           .row(titulo="<em>Daily meeting</em>(Reunión diaria)")
             .col
@@ -134,7 +145,7 @@
 
           .row(titulo="<em>Sprint review</em> (revisión del <em>sprint</em>")
             .col
-              p Es uno de los eventos del Scrum y se realiza al final del <em>sprint</em>, su finalidad es revisar el incremento lo que se realizó durante el <em>sprint</em>. La duración de esta reunión es de 4 horas para sprints de 30 días.
+              p Es uno de los eventos del Scrum y se realiza al final del <em>sprint</em>, su finalidad es revisar el incremento lo que se realizó durante el <em>sprint</em>. La duración de esta reunión es de 4 horas para <em>sprints</em> de 30 días.
 
           .row(titulo="Backlog del producto")
             .col
@@ -154,7 +165,7 @@
       .col-lg-7(data-aos="fade")
         p #[span.clr--blue.bold Kanban es un método de información ágil] que ayuda de manera dinámica a la elaboración de elementos necesarios en un tiempo adecuado para el desarrollo al interior de una empresa. Kanban se conoce como sistemas de tarjetas, es fácil, se utilizan tarjetas que se adhieren en tableros y su finalidad es organizar las tareas hasta la culminación.   
         p Su metodología es muy fácil, se puede organizar y el grupo de desarrollo lo reciben sin problema. Al ser un método tangible se logra ver la situación de un proyecto. Esto ayuda a delegar nuevas labores de forma positiva. Para su implementación es importante tener un tablero de labores con el propósito de ayudar en las labores y establecer el flujo de tareas en un proyecto.
-        p.mb-5 #[span.clr--blue.bold Su finalidad es garantizar que el trabajo del equipo se visualice, que su workflow (flujo de trabajo)] se unifique y que se identifiquen y resuelvan rápidamente todos los factores que lo bloqueen y de los que dependan. 
+        p.mb-5 #[span.clr--blue.bold Su finalidad es garantizar que el trabajo del equipo se visualice, que su #[em workflow] (flujo de trabajo)] se unifique y que se identifiquen y resuelvan rápidamente todos los factores que lo bloqueen y de los que dependan. 
 
         h5 Fases del ciclo de producción 
         p En la metodología Kanban el desarrollo es progresivo, es decir, la segmentación de las tareas en diferentes partes, en conclusión: no se habla de una labor, esto ayuda a que se acelere el desarrollo productivo al segmentar los procesos. Cada documento que se utilice en el método se pondrá en el tablero en la etapa a la que pertenezca para que el grupo se informe sobre la cantidad de labores a realizar. Se define las labores y sugerencias que resulten, de esta manera las tareas serán detalladas fácilmente por en grupo, las prioridades y objetivos.
@@ -183,7 +194,7 @@
     separador
 
     #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade")
-      h2 3.2 Servicios web
+      h2 3.2 Servicios #[em web]
 
     p(data-aos="fade").mb-5 Es un sistema #[em software diseñado] para soportar la interacción máquina-a-máquina, a través de una red, de forma interoperable. Para conocer sobre este tema, es importante visualizar el siguiente recurso que explicará el consumo de servicios, XML, peticiones http y #[em restful]:
 
@@ -191,9 +202,9 @@
       .col-auto
         h3.custom-H3 Consumo de servicios
 
-    p(data-aos="fade") #[span.hglt--mint Los servicios #[em web] o #[em (web services)] son un formato para intercambiar información entre máquinas conectadas a una red], pueden ser servicios públicos o privados, por lo general, la comunicación se realiza por solicitudes y respuestas entre un cliente y un servidor, que incorporan información. Se realiza la solicitud, esta se procesa y, posteriormente, se incorporan datos y se da la respuesta. Un servicio web es un flujo de información entre máquinas. 
+    p(data-aos="fade") #[span.hglt--mint Los servicios #[em web] o #[em (web services)] son un formato para intercambiar información entre máquinas conectadas a una red], pueden ser servicios públicos o privados, por lo general, la comunicación se realiza por solicitudes y respuestas entre un cliente y un servidor, que incorporan información. Se realiza la solicitud, esta se procesa y, posteriormente, se incorporan datos y se da la respuesta. Un servicio #[em web] es un flujo de información entre máquinas. 
 
-    p(data-aos="fade") Esta trabaja de forma independiente modular y autodescriptiva, los servicios web son capaces de consultar, modificar, insertar o actualizar información en las aplicaciones; para realizar esta acción los servicios #[em web] son usados a través de sitios estándares de protocolos #[em web]; la función principal de los servicios #[em web] es que permitan compartir datos entre dos aplicaciones diferentes sin que estas se encuentren desarrolladas en la misma tecnología, estos servicios están compuestos por tres elementos principales: 
+    p(data-aos="fade") Esta trabaja de forma independiente modular y autodescriptiva, los servicios #[em web] son capaces de consultar, modificar, insertar o actualizar información en las aplicaciones; para realizar esta acción los servicios #[em web] son usados a través de sitios estándares de protocolos #[em web]; la función principal de los servicios #[em web] es que permitan compartir datos entre dos aplicaciones diferentes sin que estas se encuentren desarrolladas en la misma tecnología, estos servicios están compuestos por tres elementos principales: 
 
     .row.justify-content-center.mb-5
       .col-lg-3.g-0.order-2.order-lg-1(data-aos="fade")
@@ -215,11 +226,11 @@
 
     .row.mb-4(data-aos="fade")
       .col-auto
-        h3.custom-H3 XML (Extensible Markup Language) Lenguaje de marcado extensible
+        h3.custom-H3 XML <em>(Extensible Markup Language)</em> Lenguaje de marcado extensible
 
     p(data-aos="fade") XML está diseñado por etiquetas, es uno de los lenguajes más tradicionales que tienen varias funciones para su extensión, verificación en la información y construcción de datos, El lenguaje de marcado XML es un grupo de códigos y su función es la de examinar información, o leer textos; XML suministra información organizada y procesar un lenguaje personalizado.  
 
-    p(data-aos="fade").mb-5 #[span.hglt--mint Los archivos XML, se segmentan en dos partes conocidas como prolog], que hace referencia a metadatos administrativos y body se forma en dos elementos: estructura y contenido. Por su sencillez de utilización se emplea para muchos procesos de servicios web.
+    p(data-aos="fade").mb-5 #[span.hglt--mint Los archivos XML, se segmentan en dos partes conocidas como prolog], que hace referencia a metadatos administrativos y body se forma en dos elementos: estructura y contenido. Por su sencillez de utilización se emplea para muchos procesos de servicios #[em web].
 
     .row.justify-content-center.mb-5
       .col-lg-8.mb-4(data-aos="zoom-in")
@@ -237,9 +248,9 @@
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade")
         p Entre sus características, si se requiere presentar información dinámica en un archivo HTML, la información se puede agrupar en archivos XML de tal forma que se pueda utilizar HTML en la observación y diseño. XML, facilita el intercambio de información, con XML simplifica el intercambio de información no compatibles en muchas ocasiones por su dificultad en internet.
 
-        p La adaptación a los cambios tecnológicos de nuevos software o hardware, requiere más tiempo, esto hace que se transforme mucha información, haciendo que muchos datos se pierdan. Los datos XML se organizan en documentos, textos y esto ayuda a su actualización de forma eficaz.
+        p La adaptación a los cambios tecnológicos de nuevos #[em software] o #[em hardware], requiere más tiempo, esto hace que se transforme mucha información, haciendo que muchos datos se pierdan. Los datos XML se organizan en documentos, textos y esto ayuda a su actualización de forma eficaz.
 
-        p XML incrementa los recursos de información, diversas aplicaciones pueden ingresar a la información, no necesariamente en sitios HTML, también en recursos de información XML. La información puede estar al alcance de cualquier computador, Tablet o móvil. Sirve para producir nuevos idiomas en la web, ejemplo: XHYML, WSDL, WAP y WML, RSS.
+        p XML incrementa los recursos de información, diversas aplicaciones pueden ingresar a la información, no necesariamente en sitios HTML, también en recursos de información XML. La información puede estar al alcance de cualquier computador, #[em Tablet] o móvil. Sirve para producir nuevos idiomas en la #[em web], ejemplo: XHYML, WSDL, WAP y WML, RSS.
 
         .bg--paleOrange.p-4(data-aos="zoom-in")
           h5 Ventajas de XML
@@ -263,7 +274,7 @@
       .col-auto
         h3.custom-H3 Peticiones HTTP
 
-    p(data-aos="fade") Es un proceso mediante el cual una persona se comunica con un servidor. Esta se puede realizar a través de un computador, tablet o un teléfono inteligente. en este proceso las personas envían una comunicación al servidor, y este a su vez genera una respuesta.
+    p(data-aos="fade") Es un proceso mediante el cual una persona se comunica con un servidor. Esta se puede realizar a través de un computador, #[em tablet] o un teléfono inteligente. en este proceso las personas envían una comunicación al servidor, y este a su vez genera una respuesta.
 
     p(data-aos="fade") #[strong Los métodos de petición más usados son:]
 
@@ -303,8 +314,8 @@
           figure.vp-50
             img(src="@/assets/curso/temas/t3/t3_12.svg", alt="alt")
 
-    h5(data-aos="fade") Restful
-    p(data-aos="fade").mb-4 Es importante diferenciar dos conceptos aquí presentes #[em Rest] y #[em Restful], para comprender y no generar confusiones. #[em Rest (Representational State Transfer)], es una forma de diseño #[em web] basado en protocolo HTTP, con el fin de perfeccionar las comunicaciones entre el cliente y el servidor. Por otra parte, #[em Restful], es programa de servicio #[em web] y su característica es que la Api o transferencia, no necesita una red, y es aplicarlo en un mismo computador. Entendiendo estos dos conceptos se puede determinar que Rest, es un concepto de diseño, mientras Restful es un servicio #[em web].
+    h5(data-aos="fade") <em>Restful</em>
+    p(data-aos="fade").mb-4 Es importante diferenciar dos conceptos aquí presentes #[em Rest] y #[em Restful], para comprender y no generar confusiones. #[em Rest (Representational State Transfer)], es una forma de diseño #[em web] basado en protocolo HTTP, con el fin de perfeccionar las comunicaciones entre el cliente y el servidor. Por otra parte, #[em Restful], es programa de servicio #[em web] y su característica es que la Api o transferencia, no necesita una red, y es aplicarlo en un mismo computador. Entendiendo estos dos conceptos se puede determinar que Rest, es un concepto de diseño, mientras #[em Restful] es un servicio #[em web].
 
     .row.justify-content-center.mb-5
       .col-lg-3.g-0(data-aos="zoom-in")
@@ -314,7 +325,7 @@
 
       .col-lg-7.g-0(data-aos="fade")        
         .bg--paleOrange.p-4.hg-100
-          p #[strong Características de un servicio Web Restful:]
+          p #[strong Características de un servicio #[em Web Restful]:]
           ul.fa-ul.mb-0
             li
               i.fa-li.fas.fa-check.clr--orange
@@ -329,7 +340,7 @@
               i.fa-li.fas.fa-check.clr--orange
               | El método HTTP es un verbo.
 
-    p(data-aos="fade").mb-5 #[strong En las siguientes imágenes, se detallan las operaciones Restful según el método HTTP:]
+    p(data-aos="fade").mb-5 #[strong En las siguientes imágenes, se detallan las operaciones #[em Restful] según el método HTTP:]
 
     .row.justify-content-center.mb-5(data-aos="fade")
       .col-lg-10
@@ -361,7 +372,7 @@
                 figure
                   img(src="@/assets/curso/temas/t3/t3_18.svg", alt="alt")
 
-    p(data-aos="fade") Utilizar #[span.clr--blue.bold Restful] ayuda a la transferencia en cualquier plataforma. Esto permite a los diseñadores lograr ascender las aplicaciones sin problemas. Su gran ventaja es la segmentación entre el cliente y el servidor, ya que la procedencia del lenguaje o clase de servidor no afectaría, solo basta con realizar correctamente la solicitud. 
+    p(data-aos="fade") Utilizar #[span.clr--blue.bold #[em Restful]] ayuda a la transferencia en cualquier plataforma. Esto permite a los diseñadores lograr ascender las aplicaciones sin problemas. Su gran ventaja es la segmentación entre el cliente y el servidor, ya que la procedencia del lenguaje o clase de servidor no afectaría, solo basta con realizar correctamente la solicitud. 
 
 
 

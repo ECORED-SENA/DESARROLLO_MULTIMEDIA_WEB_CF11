@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 1
-      h1 Entornos y herramientas de codificación para el desarrollo de proyectos web
+      h1 Entornos y herramientas de codificación para el desarrollo de proyectos #[em web]
 
     .row.justify-content-center
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade")
@@ -67,7 +67,7 @@
                 img(src='@/assets/curso/temas/t1/t1_06.png', alt='')
             .col-lg-7
               h4 Visual Basic
-              p Beginner’s All- purpose Symbolic Instruction Code (código simbólico de instrucciones de propósito general para principiantes), es una familia de lenguajes imperativos de alto nivel, aparecidos por primera vez en 1964. Su versión más actual es Visual Basic .NET.
+              p #[em Beginner’s All- purpose Symbolic Instruction Code] (código simbólico de instrucciones de propósito general para principiantes), es una familia de lenguajes imperativos de alto nivel, aparecidos por primera vez en 1964. Su versión más actual es Visual Basic .NET.
 
         .py-3.py-md-4(titulo="Cobol")
           .row.justify-content-around.py-4.px-4.px-lg-0
@@ -76,7 +76,7 @@
                 img(src='@/assets/curso/temas/t1/t1_07.png', alt='')
             .col-lg-7
               h4 Cobol
-              p Su nombre es un acrónimo para Common Business-Oriented Lenguage (lenguaje común orientado a los negocios), se trata de un lenguaje de programación universal creado en 1959, orientado principalmente a la informática de gestión; es decir, empresarial.
+              p Su nombre es un acrónimo para #[em Common Business-Oriented Lenguage] (lenguaje común orientado a los negocios), se trata de un lenguaje de programación universal creado en 1959, orientado principalmente a la informática de gestión; es decir, empresarial.
 
         .py-3.py-md-4(titulo="Fortran")
           .row.justify-content-around.py-4.px-4.px-lg-0
@@ -85,7 +85,7 @@
                 img(src='@/assets/curso/temas/t1/t1_08.png', alt='')
             .col-lg-7
               h4 Fortran
-              p Su nombre proviene de The IBM Mathematical Formula Translating System (sistema de traducción de fórmulas matemáticas de IBM),  es un lenguaje de programación de alto nivel, propósito general y de tipo imperativo, diseñado para aplicaciones científicas y de ingeniería.
+              p Su nombre proviene de The IBM #[em Mathematical Formula Translating System] (sistema de traducción de fórmulas matemáticas de IBM),  es un lenguaje de programación de alto nivel, propósito general y de tipo imperativo, diseñado para aplicaciones científicas y de ingeniería.
 
         .py-3.py-md-4(titulo="Java")
           .row.justify-content-around.py-4.px-4.px-lg-0
@@ -94,7 +94,7 @@
                 img(src='@/assets/curso/temas/t1/t1_09.png', alt='')
             .col-lg-7
               h4 Java
-              p Un lenguaje de programación de propósito general, orientado a objetos, cuyo espíritu se resume en las siglas WORA: Written Once, Run Anywhere, es decir: escrito una vez, funciona en cualquier parte. La idea era diseñar un lenguaje universal empleando sintaxis derivada de los lenguajes C y C++, pero empleando menos utilidades de bajo nivel que cualquiera de ambos.
+              p Un lenguaje de programación de propósito general, orientado a objetos, cuyo espíritu se resume en las siglas WORA: #[em Written Once, Run Anywhere,] es decir: escrito una vez, funciona en cualquier parte. La idea era diseñar un lenguaje universal empleando sintaxis derivada de los lenguajes C y C++, pero empleando menos utilidades de bajo nivel que cualquiera de ambos.
 
         .py-3.py-md-4(titulo="JavaScript")
           .row.justify-content-around.py-4.px-4.px-lg-0
@@ -103,15 +103,17 @@
                 img(src='@/assets/curso/temas/t1/t1_10.png', alt='')
             .col-lg-7
               h4 JavaScript
-              p Lenguaje de programación utilizado para crear “pequeños programas” dentro de una página web, permite crear pequeños scripts orientados a objetos, es decir que sus funciones y su interacción está basada en crear líneas de código que realizan tareas específicas y estructuras complejas, de la mano de una sintaxis definida, que son las reglas que debe seguirse al momento de escribir código. 
+              p Lenguaje de programación utilizado para crear “pequeños programas” dentro de una página #[em web], permite crear pequeños #[em scripts] orientados a objetos, es decir que sus funciones y su interacción está basada en crear líneas de código que realizan tareas específicas y estructuras complejas, de la mano de una sintaxis definida, que son las reglas que debe seguirse al momento de escribir código. 
               p Una de las características del código JavaScript es que sus etiquetas deben cerrarse:
+              figure
+                img(src='@/assets/curso/temas/t1/t1_10A.svg', alt='').img200
 
     separador
 
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade")
       h2 1.2 Entorno de ejecución multiplataforma
 
-    p(data-aos="fade").mb-4 Es uno de los tantos atributos que tienen y permiten los programas y aplicaciones que hay actualmente en el mercado y el concepto básicamente consiste en implementar y operar en múltiples plataformas informáticas el software o aplicaciones que se crean.
+    p(data-aos="fade").mb-4 Es uno de los tantos atributos que tienen y permiten los programas y aplicaciones que hay actualmente en el mercado y el concepto básicamente consiste en implementar y operar en múltiples plataformas informáticas el #[em software] o aplicaciones que se crean.
 
     .row.justify-content-center.mb-4
       .col-lg-7.mb-4.mb-lg-0
@@ -127,7 +129,7 @@
 
     p(data-aos="fade") Una plataforma de #[em hardware] podría referirse a la CPU del ordenador y estas pueden ejecutar versiones y sistemas operativos como #[span.clr--blue.bold Windows, Linux, MacOS,] etc., cuando se refiere a los teléfonos móviles podemos referirnos a sistemas como #[span.clr--blue.bold Windows, Android e iOS].
 
-    p(data-aos="fade").bold.mb-5 Dentro de las plataformas de software más comunes se puede encontrar: 
+    p(data-aos="fade").bold.mb-5 Dentro de las plataformas de #[em software] más comunes se puede encontrar: 
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-8
@@ -135,7 +137,7 @@
           img(src="@/assets/curso/temas/t1/t1_11A.png", alt="alt")
 
 
-    p(data-aos="fade") #[span.hglt--mint Para que se pueda considerar multiplataforma, el software debe ser capaz de funcionar en más de un sistema operativo,] el inconveniente es que cada sistema tiene diferentes interfaces y así diferentes lenguajes, lo que hace que sea desgastante. Pensar en un determinado sistema operativo que sea ejecutable en cualquier hardware y que funcione correctamente en todas las arquitecturas posibles requiere que el script funcione en todos los sistemas operativos, por eso la importancia que el código sea leído por los diversos navegadores y sea funcional en más de una plataforma.
+    p(data-aos="fade") #[span.hglt--mint Para que se pueda considerar multiplataforma, el #[em software] debe ser capaz de funcionar en más de un sistema operativo,] el inconveniente es que cada sistema tiene diferentes interfaces y así diferentes lenguajes, lo que hace que sea desgastante. Pensar en un determinado sistema operativo que sea ejecutable en cualquier #[em hardware] y que funcione correctamente en todas las arquitecturas posibles requiere que el #[em script] funcione en todos los sistemas operativos, por eso la importancia que el código sea leído por los diversos navegadores y sea funcional en más de una plataforma.
 
     .row.justify-content-center.mb-4
       .col-lg-4(data-aos="zoom-in")       
@@ -145,17 +147,17 @@
         .bg--paleBlue.p-4.hg-100
           p.mb-0 Abordar los problemas que puede llevar la programación multimedia, van desde crear varias versiones para el mismo programa, hasta utilizar aplicaciones que ayudarán a adaptar el código a las plataformas o aplicaciones finales; dependerá mucho de la capacidad de costos, el tiempo para su desarrollo y de los enfoques que se vayan a solucionar al momento de construir código. Cabe resaltar que lo más importante para todas las versiones es reducir a cero los errores, por lo que se debe tener presente la corrección en cada una de las plataformas escogidas. 
 
-    p(data-aos="fade").mb-5 Depender de algún software que permita encontrar esos problemas existentes entre las diferencias de las plataformas o utilizar aplicaciones que permitan construir y ejemplificar la construcción ayudan al momento de visualizar serán herramientas que permitirán ahorrar tiempo al momento de solucionar y reconstruir el código. Aquí se relacionan algunas que pueden ser poderosas herramientas para el desarrollo en multiplataforma.
+    p(data-aos="fade").mb-5 Depender de algún #[em software] que permita encontrar esos problemas existentes entre las diferencias de las plataformas o utilizar aplicaciones que permitan construir y ejemplificar la construcción ayudan al momento de visualizar serán herramientas que permitirán ahorrar tiempo al momento de solucionar y reconstruir el código. Aquí se relacionan algunas que pueden ser poderosas herramientas para el desarrollo en multiplataforma.
 
     .row.justify-content-center.mb-5(data-aos="fade")
        SlyderF.cstmSlyderF(columnas="col-lg-6 col-xl-4")
         .crd.crd--blue.hg-100         
           h4 El Cairo
-          p.mb-0 Un software libre, que se utiliza para proporcionar un vector basado en gráficos, independiente del API del dispositivo, posee enlaces para muchos lenguajes de programación.
+          p.mb-0 Un #[em software] libre, que se utiliza para proporcionar un vector basado en gráficos, independiente del API del dispositivo, posee enlaces para muchos lenguajes de programación.
 
         .crd.crd--blue.hg-100         
           h4 Eclipse
-          p.mb-0 Entorno de desarrollo multiplataforma y de código abierto. Funciona en Java con arquitectura que permite configurar diferentes elementos, y soporta herramientas para el desarrollo de software. Complementos con Java y C++.
+          p.mb-0 Entorno de desarrollo multiplataforma y de código abierto. Funciona en Java con arquitectura que permite configurar diferentes elementos, y soporta herramientas para el desarrollo de #[em software]. Complementos con Java y C++.
 
         .crd.crd--blue.hg-100         
           h4 FLTK
@@ -163,15 +165,15 @@
 
         .crd.crd--blue.hg-100         
           h4 fpGUI 
-          p.mb-0 Un conjunto de herramientas de fuente abierta tipo widget, implementado en Object Pascal.
+          p.mb-0 Un conjunto de herramientas de fuente abierta tipo #[em widget], implementado en Object Pascal.
 
         .crd.crd--blue.hg-100         
           h4 GeneXus 
-          p.mb-0 En Windows es una solución rápida de desarrollo de software para la creación de aplicaciones multiplataforma y de despliegue basado en la representación del conocimiento y el apoyo a C#, Cobol, Java incluyendo Android y BlackBerry dispositivos inteligentes, Objective-C para el de Apple dispositivos móviles, RPG, Ruby, Visual Basic y Visual FoxPro.
+          p.mb-0 En Windows es una solución rápida de desarrollo de #[em software] para la creación de aplicaciones multiplataforma y de despliegue basado en la representación del conocimiento y el apoyo a C#, Cobol, Java incluyendo Android y BlackBerry dispositivos inteligentes, Objective-C para el de Apple dispositivos móviles, RPG, Ruby, Visual Basic y Visual FoxPro.
 
         .crd.crd--blue.hg-100         
           h4 GTK+
-          p.mb-0 Un conjunto de herramientas de código abierto para el widget de sistemas tipo Unix con X11 y Microsoft Windows.
+          p.mb-0 Un conjunto de herramientas de código abierto para el #[em widget] de sistemas tipo Unix con X11 y Microsoft Windows.
 
         .crd.crd--blue.hg-100         
           h4 haXe
@@ -179,11 +181,11 @@
 
         .crd.crd--blue.hg-100         
           h4 Juce
-          p.mb-0 Un framework de aplicaciones escritas en C++, que se utiliza para escribir software nativo en numerosos sistemas, sin cambios en el código.
+          p.mb-0 Un #[em framework] de aplicaciones escritas en C++, que se utiliza para escribir #[em software] nativo en numerosos sistemas, sin cambios en el código.
 
         .crd.crd--blue.hg-100         
           h4 Max/MSP
-          p.mb-0 Un lenguaje de programación Visual que encapsula independiente de la plataforma del código con un entorno de ejecución específico de la plataforma en las aplicaciones para Mac OS X y Windows.
+          p.mb-0 Un lenguaje de programación #[em Visual] que encapsula independiente de la plataforma del código con un entorno de ejecución específico de la plataforma en las aplicaciones para Mac OS X y Windows.
 
         .crd.crd--blue.hg-100         
           h4 Mono
@@ -198,7 +200,7 @@
           p.mb-0 Es un SDK de código abierto para el desarrollo de aplicaciones móviles en la plataforma C++ familia.
 
         .crd.crd--blue.hg-100         
-          h4 Framework de la aplicación Mozilla
+          h4 #[em Framework] de la aplicación Mozilla
           p.mb-0 Una plataforma de código abierto para el desarrollo de Mac OS X, las aplicaciones de Windows y Linux.
 
         .crd.crd--blue.hg-100         
@@ -206,12 +208,12 @@
           p.mb-0 Una biblioteca multiplataforma de gráficos 3D.
 
         .crd.crd--blue.hg-100         
-          h4 Qt (toolkit)
-          p.mb-0 Una estructura de aplicaciones y Widget Toolkit para sistemas Unix con X11, Microsoft Windows, Mac OS X, disponible tanto en código abierto y como para licencias propietarias.
+          h4 Qt #[em (toolkit)]
+          p.mb-0 Una estructura de aplicaciones y #[em Widget Toolkit] para sistemas Unix con X11, Microsoft Windows, Mac OS X, disponible tanto en código abierto y como para licencias propietarias.
 
         .crd.crd--blue.hg-100         
           h4 Real Studio
-          p.mb-0 Un IDE RAD desarrollado por Real Software, utiliza un dialecto orientado a objetos del lenguaje de programación BASIC, y produce binarios compilados para MacOS X, Windows y Linux, como también, ser capaz de producir CGI aplicaciones basadas en web.
+          p.mb-0 Un IDE RAD desarrollado por Real #[em Software], utiliza un dialecto orientado a objetos del lenguaje de programación BASIC, y produce binarios compilados para MacOS X, Windows y Linux, como también, ser capaz de producir CGI aplicaciones basadas en #[em web].
 
         .crd.crd--blue.hg-100         
           h4 Simple DirectMedia Layer
@@ -227,16 +229,17 @@
 
         .crd.crd--blue.hg-100         
           h4 wxWidgets
-          p.mb-0 Juego de herramientas widget de fuente abierta que es también un marco de aplicación. Se ejecuta en sistemas Unix con X11, Microsoft Windows y Mac OS X. Se permite que las aplicaciones escritas para usarlo para funcionar en todos los sistemas que lo soporta, si la aplicación no utiliza ningún sistema operativo específico de programación, además de a la misma.
+          p.mb-0 Juego de herramientas #[em widget] de fuente abierta que es también un marco de aplicación. Se ejecuta en sistemas Unix con X11, Microsoft Windows y Mac OS X. Se permite que las aplicaciones escritas para usarlo para funcionar en todos los sistemas que lo soporta, si la aplicación no utiliza ningún sistema operativo específico de programación, además de a la misma.
 
         .crd.crd--blue.hg-100         
           h4 XPower++
           p.mb-0 Es un IDE multiplataforma para Windows, Linux, Mac OS X y sistemas operativos móviles.
 
+    p Dada la complejidad y la cantidad de plataformas se pueden presentar errores los cuales a medida del tiempo se irán depurando, lo importante es construir las características más importantes y relevantes para después transformar los sutiles detalles que ayudarán a que el rendimiento no se vea afectado.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-8(data-aos="fade") 
-        p Dentro de las herramientas para el desarrollo en multiplataforma se encuentra #[span.clr--blue.bold Adobe AIR], una de las aplicaciones de la familia Adobe compatible con cualquier sistema operativo y una de las mejores al momento de construir y crear aplicaciones de escritorio a partir del desarrollo de páginas web en #[span.clr--blue.bold HTML, JAVA, AJAX,] etc., siendo una de sus características la generación de sus aplicaciones en plataforma multimedia; es decir, lo creado en esta aplicación podrá ser utilizado en cualquier sistema operativo, teniendo en cuenta que:
+      .col-lg-8(data-aos="fade")          
+        p Dentro de las herramientas para el desarrollo en multiplataforma se encuentra #[span.clr--blue.bold Adobe AIR], una de las aplicaciones de la familia Adobe compatible con cualquier sistema operativo y una de las mejores al momento de construir y crear aplicaciones de escritorio a partir del desarrollo de páginas #[em web] en #[span.clr--blue.bold HTML, JAVA, AJAX,] etc., siendo una de sus características la generación de sus aplicaciones en plataforma multimedia; es decir, lo creado en esta aplicación podrá ser utilizado en cualquier sistema operativo, teniendo en cuenta que:
       .col-lg-4.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t1/t1_13.png", alt="alt")
@@ -255,7 +258,7 @@
               i.fa-li.fas.fa-check.clr--orange
               | Se encuentra disponible tanto para los dispositivos móviles inteligente. Sin importar que sistema operativo esté utilizando el mismo.
 
-    p(data-aos="fade").mb-4 #[span.clr--blue.bold AIR es un programa que establece flujos de trabajo compuestos por codificación y compilados en archivos instaladores], su facilidad en la aplicación de lenguajes y formatos permite un flujo más constante y permite detectar errores en los procesos, estos procesos de depurado y solución de errores siguen una serie lineamientos que permite realizar procesos más correctos; es un programa que trabaja de la mano con sus hermanos de la familia Adobe. En general, la creación de las aplicaciones será más eficiente usando las herramientas que proporcionen herramientas a los desarrolladores, para encontrar el sistema y el SDK adecuado, de no ser así la eficiencia de los resultados finales se verán afectados, como trabaja ejecutando la web como una aplicación de escritorio, la posibilidad de trabajar sin internet hace que compañías importantes hayan optado hacer uso de esta posibilidad. 
+    p(data-aos="fade").mb-4 #[span.clr--blue.bold AIR es un programa que establece flujos de trabajo compuestos por codificación y compilados en archivos instaladores], su facilidad en la aplicación de lenguajes y formatos permite un flujo más constante y permite detectar errores en los procesos, estos procesos de depurado y solución de errores siguen una serie lineamientos que permite realizar procesos más correctos; es un programa que trabaja de la mano con sus hermanos de la familia Adobe. En general, la creación de las aplicaciones será más eficiente usando las herramientas que proporcionen herramientas a los desarrolladores, para encontrar el sistema y el SDK adecuado, de no ser así la eficiencia de los resultados finales se verán afectados, como trabaja ejecutando la #[em web] como una aplicación de escritorio, la posibilidad de trabajar sin internet hace que compañías importantes hayan optado hacer uso de esta posibilidad. 
 
     .row.justify-content-center.mb-5
       .col-lg-6(data-aos="zoom-in")
@@ -286,7 +289,7 @@
         figure
           img(src="@/assets/curso/temas/t1/t1_15.png", alt="alt")
       .col-lg-7(data-aos="fade")
-        p #[span.clr--blue.bold Es una herramienta que permite a los programadores desarrollar programas en lenguajes y programas en concreto para una aplicación determinada.] Son elementos que son desarrollados con lenguajes originales para determinados softwares en cuestión, por lo que la mayoría son de uso gratuito.
+        p #[span.clr--blue.bold Es una herramienta que permite a los programadores desarrollar programas en lenguajes y programas en concreto para una aplicación determinada.] Son elementos que son desarrollados con lenguajes originales para determinados #[em software] en cuestión, por lo que la mayoría son de uso gratuito.
         p El desarrollo de un SDK varía dependiendo el fabricante, el lenguaje específico y un sistema operativo dada su finalidad; #[span.clr--blue.bold un SDK viene provisto de muchas herramientas y ventajas dependiendo la necesidad,] pero se puede estandarizar que casi todos los SDK deberían tener presentes algunos elementos como los API, una clara documentación de lo que se encontrará en cada SDK: para qué sirve, ventajas y desventajas, etc.; las herramientas de prueba y análisis para la depuración y compilación de sus códigos; editores, bibliotecas y sistemas de tiempos de ejecución, sus entornos de desarrollo, protocolos y los controladores necesarios son los elementos básicos, los cuales son procesos bases para facilitar el trabajo de desarrolladores.
 
     .grad_01.mb-5
@@ -303,7 +306,7 @@
                 ul.fa-ul.mb-0
                   li
                     i.fa-li.fas.fa-check.clr--orange
-                    | Si un SDK tiene licencia de propiedad, no será apropiado para el desarrollo de software de código abierto.
+                    | Si un SDK tiene licencia de propiedad, no será apropiado para el desarrollo de #[em software] de código abierto.
                   li
                     i.fa-li.fas.fa-check.clr--orange
                     | Si un SDK tiene una licencia tipo GPL, no será apropiado para el desarrollo de aplicaciones de propiedad.
@@ -317,7 +320,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade").mb-5 #[strong Además de los kits de desarrollo de software anteriores, se encuentran otros con mayores especificaciones para la programación:]
+    p(data-aos="fade").mb-5 #[strong Además de los kits de desarrollo de #[em software] anteriores, se encuentran otros con mayores especificaciones para la programación:]
 
     TabsB.color-primario(data-aos="fade")
       .py-4.py-md-5(titulo="Vuforia" :icono="require('@/assets/curso/temas/t1/t1_17.svg')")
@@ -333,7 +336,7 @@
         .row.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
             h4 Layar
-            p Otro SDK de realidad aumentada, siendo uno de los pioneros y líderes en ofrecer este desarrollo de software de este tipo de contenido; a su vez, es una creadora de contenido interactivo, dado que se puede trabajar con soportes interactivos, flyers y demás contenido multimedia como videos, imágenes y música.
+            p Otro SDK de realidad aumentada, siendo uno de los pioneros y líderes en ofrecer este desarrollo de #[em software] de este tipo de contenido; a su vez, es una creadora de contenido interactivo, dado que se puede trabajar con soportes interactivos, #[em flyers] y demás contenido multimedia como videos, imágenes y música.
             p.mb-0 Permite analizar resultados con sus herramientas de estadísticas, los cuales permiten conocer el número de personas que ingresan e interactúan, el tiempo, su ubicación, etc. Como la mayoría de SDK trabajan en conjunto, Layar, utiliza herramientas como las que ofrece Blippar, que es una herramienta para crear contenido de realidad aumentada sin necesidad de código.       
           .col-lg-6.col-8
             figure
@@ -375,7 +378,7 @@
         figure
           img(src="@/assets/curso/temas/t1/t1_23.jpg", alt="alt")
 
-    p(data-aos="fade").mb-5 #[strong Se pueden agrupar a los lenguajes en diferentes niveles, que son lenguajes orientados a máquinas y la relación que existe entre el hardware y el software. Tal como se explica a continuación:]
+    p(data-aos="fade").mb-5 #[strong Se pueden agrupar a los lenguajes en diferentes niveles, que son lenguajes orientados a máquinas y la relación que existe entre el #[em hardware] y el #[em software]. Tal como se explica a continuación:]
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -422,7 +425,7 @@
     .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade")
         p #[span.clr--blue.bold Comprendiendo esta diferenciación, se entiende que el conjunto de herramientas permite diferentes acciones como crear, escribir, mantener, depurar, etc.]
-        p Algunos softwares permiten escribir códigos y crearlos, otros simplemente ingresarlos y ejecutarlos, otros optimizan tiempos y monitorean variables, referencias memorias y ayudan a las correcciones de errores de código. Estos lenguajes permiten la comunicación con el software y acá se indica todo lo que se quiere que una página haga, se vea y realice determinadas acciones. 
+        p Algunos #[em software] permiten escribir códigos y crearlos, otros simplemente ingresarlos y ejecutarlos, otros optimizan tiempos y monitorean variables, referencias memorias y ayudan a las correcciones de errores de código. Estos lenguajes permiten la comunicación con el #[em software] y acá se indica todo lo que se quiere que una página haga, se vea y realice determinadas acciones. 
       .col-lg-4.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t1/t1_26.svg", alt="alt")
@@ -431,14 +434,14 @@
     .row.justify-content-center
       .col-lg-6.mb-4.mb-lg-0(data-aos="zoom-in")
         .bg--halfMint.p-4
-          p.mb-4 Todas las acciones que se vean en una página web como los botones, los colores, el diseño, las animaciones, el texto, etc.; es información que se debe recopilar en secciones más pequeñas y traducirlas en instrucciones que la máquina pueda entender. 
+          p.mb-4 Todas las acciones que se vean en una página #[em web] como los botones, los colores, el diseño, las animaciones, el texto, etc.; es información que se debe recopilar en secciones más pequeñas y traducirlas en instrucciones que la máquina pueda entender. 
           .row.justify-content-center
             .col-10
               figure
                 img(src="@/assets/curso/temas/t1/t1_27.svg", alt="alt")
       .col-lg-6(data-aos="zoom-in")
         .bg--halfYellow.p-4
-          p.mb-4 Todas las acciones que se vean en una página web como los botones, los colores, el diseño, las animaciones, el texto, etc.; es información que se debe recopilar en secciones más pequeñas y traducirlas en instrucciones que la máquina pueda entender.
+          p.mb-4 Todas las acciones que se vean en una página #[em web] como los botones, los colores, el diseño, las animaciones, el texto, etc.; es información que se debe recopilar en secciones más pequeñas y traducirlas en instrucciones que la máquina pueda entender.
           .row.justify-content-center
             .col-10 
               figure
@@ -451,7 +454,7 @@
         .row
           .col-lg-6.mb-4.mb-lg-0
             h4 HTML (Lenguaje de Marcado de Hipertexto) 
-            p Es el núcleo de cada página y es el primer acercamiento que se debe tener como programador, dado que es donde se contendrá toda la información que tiene una página web; lenguaje de marcado es utilizar etiquetas ya identificadas para ordenar funciones e identificar diferentes tipos de contenido. Estas etiquetas tienen nombres que permiten ubicar fácilmente cada elemento como etiquetas de encabezados, etiquetas de párrafos, etiquetas de imagen y un sin número de etiquetas que identifican cada contenido de una página. 
+            p Es el núcleo de cada página y es el primer acercamiento que se debe tener como programador, dado que es donde se contendrá toda la información que tiene una página #[em web]; lenguaje de marcado es utilizar etiquetas ya identificadas para ordenar funciones e identificar diferentes tipos de contenido. Estas etiquetas tienen nombres que permiten ubicar fácilmente cada elemento como etiquetas de encabezados, etiquetas de párrafos, etiquetas de imagen y un sin número de etiquetas que identifican cada contenido de una página. 
             p.mb-0 Una vez se genera una etiqueta, se asume que todo el contenido hace parte de esta, hasta que finalmente se cierra. Las etiquetas tienen un contenido de apertura y otro de cierre.
 
           .col-lg-6
@@ -461,13 +464,13 @@
                 p.mb-0.ms-3 #[span.clr--mint.bold “El contenido del párrafo”]
                 p #[span.clr--blue.bold &#60;/p&#62;]
 
-                p Donde #[span.clr--blue.bold &#60;p&#62;], representa la apertura de una etiqueta de párrafo inicial; #[span.clr--mint.bold “El contenido del Párrafo”] y una etiqueta se cierra al final #[span.clr--blue.bold &#60;/p&#62;].
+                p Donde #[span.clr--blue.bold &#60;p&#62;], representa la apertura de una etiqueta de párrafo inicial; #[span.clr--mint.bold “El contenido del párrafo”] y una etiqueta se cierra al final #[span.clr--blue.bold &#60;/p&#62;].
 
       .py-4.py-md-5(titulo="CSS" :icono="require('@/assets/curso/temas/t1/t1_30.svg')")
         .row.justify-content-between
           .col-lg-7.mb-4.mb-lg-0
             h4 CSS 
-            p Hojas de estilo en Cascada, básicamente es un lenguaje de programación que determina cómo deben aparecer los elementos antes mencionados en una página web. Son una lista de reglas que asignan propiedades a las etiquetas HTML sean específicas, de documento, de diseño, etc.
+            p Hojas de estilo en cascada, básicamente es un lenguaje de programación que determina cómo deben aparecer los elementos antes mencionados en una página #[em web]. Son una lista de reglas que asignan propiedades a las etiquetas HTML sean específicas, de documento, de diseño, etc.
             p.mb-0 Ambos lenguajes son herramientas complementarias la una a la otra, por una parte uno estructura y otro lado otro diseña el contenido, ambos trabajando de la mano, pero separados, para garantizar el mejor funcionamiento de cada una de las partes. 
 
           .col-lg-5
@@ -479,7 +482,7 @@
           .col-lg-7.mb-4.mb-lg-0
             h4 JavaScript 
             p Es un lenguaje más avanzado que el HTML y CSS, es compatible con todos los navegadores y gracias a sus características, genera funcionalidades más potentes.
-            p.mb-0 JavaScript modifica el contenido de las páginas web haciendo que se comporten dependiendo las acciones de cada usuario, se podría decir que, gracias a JavaScript, se pueden crear sitios más interactivos.
+            p.mb-0 JavaScript modifica el contenido de las páginas #[em web] haciendo que se comporten dependiendo las acciones de cada usuario, se podría decir que, gracias a JavaScript, se pueden crear sitios más interactivos.
           .col-lg-5
             figure
               img(src="@/assets/curso/temas/t1/t1_32.png", alt="alt")
