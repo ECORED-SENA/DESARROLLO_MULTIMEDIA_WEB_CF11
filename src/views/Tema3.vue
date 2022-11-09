@@ -129,7 +129,7 @@
             .col
               p Es la reunión que se hace al comienzo de cada <em>sprint</em>, en esta reunión el grupo Scrum organiza qué temas van a tratar y el objetivo del <em>sprint</em>, esta primera reunión puede durar 8 horas en promedio en un <em>sprint</em> de un mes. En esta primera reunión en grupo de trabajo se plantea qué van hacer y cómo lo va hacer. En relación con esto se definen labores y el grupo de diseño, además, se organizan temas importantes para profundizar cada tema; esto implica que el grupo defina un objetivo y se comprometa con entrega de valor al cliente.         
 
-          .row(titulo="<em>Daily meeting </em>(Reunión diaria)")
+          .row(titulo="<em>Daily meeting </em>(reunión diaria)")
             .col
               p Este término hace referencia a un encuentro diario que se realiza máximo en 15 minutos, dentro del <em>sprint</em>, aquí debe estar presente el equipo de diseño y el <em>Scrum master</em>. En este encuentro diario el grupo de diseño se plantea los siguiente:    
               ul.fa-ul.mb-0
@@ -143,7 +143,7 @@
                   i.fa-li.fas.fa-check.clr--orange
                   | ¿Se tiene algún impedimento que se necesita solucionar?
 
-          .row(titulo="<em>Sprint review </em> (revisión del <em>sprint</em>")
+          .row(titulo="<em>Sprint review </em> (revisión del <em>sprint)</em>")
             .col
               p Es uno de los eventos del Scrum y se realiza al final del <em>sprint</em>, su finalidad es revisar el incremento lo que se realizó durante el <em>sprint</em>. La duración de esta reunión es de 4 horas para <em>sprints</em> de 30 días.
 
