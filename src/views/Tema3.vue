@@ -111,7 +111,7 @@
         ul.fa-ul.mb-0
           li
             i.fa-li.fas.fa-check.clr--orange
-            | Incentivar el trabajo en equipo, uniendo todos los esfuerzos para obtener a los objetivos, es una técnica de disciplina y compromiso, lo que genera una comunicación positiva y persuade a una comunicación en equipo.
+            | Incentivar el trabajo en equipo, uniendo todos los esfuerzos para obtener los objetivos, es una técnica de disciplina y compromiso, lo que genera una comunicación positiva y persuade a una comunicación en equipo.
           li
             i.fa-li.fas.fa-check.clr--orange
             | Las partes interesadas tienen un mejor control y claridad en un proyecto, ayudando a una mejor estructuración, esto ayuda a que un cliente realice supervisión más detallada de lo que se realiza. La utilización de estas técnicas ayuda a simplificar el tiempo de ejecución de un producto, aplicación y flexibilidad en relación con los cambios, obteniendo valor enfocado a los clientes.
@@ -129,7 +129,7 @@
             .col
               p Es la reunión que se hace al comienzo de cada <em>sprint</em>, en esta reunión el grupo Scrum organiza qué temas van a tratar y el objetivo del <em>sprint</em>, esta primera reunión puede durar 8 horas en promedio en un <em>sprint</em> de un mes. En esta primera reunión en grupo de trabajo se plantea qué van hacer y cómo lo va hacer. En relación con esto se definen labores y el grupo de diseño, además, se organizan temas importantes para profundizar cada tema; esto implica que el grupo defina un objetivo y se comprometa con entrega de valor al cliente.         
 
-          .row(titulo="<em>Daily meeting</em>(Reunión diaria)")
+          .row(titulo="<em>Daily meeting </em>(Reunión diaria)")
             .col
               p Este término hace referencia a un encuentro diario que se realiza máximo en 15 minutos, dentro del <em>sprint</em>, aquí debe estar presente el equipo de diseño y el <em>Scrum master</em>. En este encuentro diario el grupo de diseño se plantea los siguiente:    
               ul.fa-ul.mb-0
@@ -143,7 +143,7 @@
                   i.fa-li.fas.fa-check.clr--orange
                   | ¿Se tiene algún impedimento que se necesita solucionar?
 
-          .row(titulo="<em>Sprint review</em> (revisión del <em>sprint</em>")
+          .row(titulo="<em>Sprint review </em> (revisión del <em>sprint</em>")
             .col
               p Es uno de los eventos del Scrum y se realiza al final del <em>sprint</em>, su finalidad es revisar el incremento lo que se realizó durante el <em>sprint</em>. La duración de esta reunión es de 4 horas para <em>sprints</em> de 30 días.
 
@@ -168,7 +168,7 @@
         p.mb-5 #[span.clr--blue.bold Su finalidad es garantizar que el trabajo del equipo se visualice, que su #[em workflow] (flujo de trabajo)] se unifique y que se identifiquen y resuelvan rápidamente todos los factores que lo bloqueen y de los que dependan. 
 
         h5 Fases del ciclo de producción 
-        p En la metodología Kanban el desarrollo es progresivo, es decir, la segmentación de las tareas en diferentes partes, en conclusión: no se habla de una labor, esto ayuda a que se acelere el desarrollo productivo al segmentar los procesos. Cada documento que se utilice en el método se pondrá en el tablero en la etapa a la que pertenezca para que el grupo se informe sobre la cantidad de labores a realizar. Se define las labores y sugerencias que resulten, de esta manera las tareas serán detalladas fácilmente por en grupo, las prioridades y objetivos.
+        p En la metodología Kanban el desarrollo es progresivo, es decir, la segmentación de las tareas en diferentes partes, en conclusión: no se habla de una labor, esto ayuda a que se acelere el desarrollo productivo al segmentar los procesos. Cada documento que se utilice en el método se pondrá en el tablero en la etapa a la que pertenezca para que el grupo se informe sobre la cantidad de labores a realizar. Se define las labores y sugerencias que resulten, de esta manera las tareas serán detalladas fácilmente por el grupo, las prioridades y objetivos.
 
       .col-lg-5.col-8(data-aos="zoom-in")
         .bg--paleBlue.p-4.hg-100
@@ -228,9 +228,9 @@
       .col-auto
         h3.custom-H3 XML <em>(Extensible Markup Language)</em> Lenguaje de marcado extensible
 
-    p(data-aos="fade") XML está diseñado por etiquetas, es uno de los lenguajes más tradicionales que tienen varias funciones para su extensión, verificación en la información y construcción de datos, El lenguaje de marcado XML es un grupo de códigos y su función es la de examinar información, o leer textos; XML suministra información organizada y procesar un lenguaje personalizado.  
+    p(data-aos="fade") XML está diseñado por etiquetas, es uno de los lenguajes más tradicionales que tienen varias funciones para su extensión, verificación en la información y construcción de datos, El lenguaje de marcado XML es un grupo de códigos y su función es la de examinar información, o leer textos; XML suministra información organizada y procesa un lenguaje personalizado.  
 
-    p(data-aos="fade").mb-5 #[span.hglt--mint Los archivos XML, se segmentan en dos partes conocidas como prolog], que hace referencia a metadatos administrativos y body se forma en dos elementos: estructura y contenido. Por su sencillez de utilización se emplea para muchos procesos de servicios #[em web].
+    p(data-aos="fade").mb-5 #[span.hglt--mint Los archivos XML, se segmentan en dos partes conocidas como #[em prolog]], que hace referencia a metadatos administrativos y #[em body] se forma en dos elementos: estructura y contenido. Por su sencillez de utilización se emplea para muchos procesos de servicios #[em web].
 
     .row.justify-content-center.mb-5
       .col-lg-8.mb-4(data-aos="zoom-in")

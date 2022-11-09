@@ -42,7 +42,7 @@
       .row.justify-content-center
         .col-lg-10.py-4
           h5(data-aos="fade") #[em Framework]
-          p(data-aos="fade") Un #[em framework] es una plantilla que cuenta con mucha información como herramientas, guías y diferentes componentes y ayudan a agilizar procesos, un #[em framework] es una herramienta que guiará y conducirá en gran parte el proceso o proyecto, y que se basará las estructuras que se utilizarán en cada proyecto. Trabajan como elementos clave que ahorrarán tiempo en la construcción de código básico y que ya está construido en otros proyectos, construyendo aplicaciones rápidas y sólidas, entendiendo que para su utilización se debe conocer que elementos trabaja, que lenguajes, etc., para así hacer más sencillo su funcionalidad, ya que no vale la pena aventurarse en cualquier #[em framework] por que sí.
+          p(data-aos="fade") Un #[em framework] es una plantilla que cuenta con mucha información como herramientas, guías y diferentes componentes y ayudan a agilizar procesos, un #[em framework] es una herramienta que guiará y conducirá en gran parte el proceso o proyecto, y que se basará las estructuras que se utilizarán en cada proyecto. Trabajan como elementos clave que ahorrarán tiempo en la construcción de código básico y que ya está construido en otros proyectos, construyendo aplicaciones rápidas y sólidas, entendiendo que para su utilización se debe conocer qué elementos trabaja, qué lenguajes, etc., para así hacer más sencillo su funcionalidad, ya que no vale la pena aventurarse en cualquier #[em framework] por que sí.
 
           p(data-aos="fade").mb-5 Dada a la facilidad de trabajo poseen gran documentación y una comunidad siempre activa a buscar soluciones a los problemas, ya que disponen de grandes foros donde desarrolladores ayudan a solucionar y corregir los #[em framework] más utilizados, esto permite que se reduzca cada vez más la incidencia de los errores y a su vez crear un código cada vez más estable y estándar, existe una gran lista que cabe la pena conocer, así que dejamos una lista de información importante al momento de trabajar con ellos.
           
@@ -107,12 +107,13 @@
     .bg--paleMint.p-4.brad_02
       .row.justify-content-center.mb-4
         .col-lg-10.py-4
+          h3.text-center.mb-5 Buenas prácticas de programación
           .row.justify-content-center.mb-4
             .col-lg-5.col-8.mb-4.mb-lg-0(data-aos="zoom-in")
               figure
                 img(src="@/assets/curso/temas/t2/t2_05.png", alt="alt")
             .col-lg-7(data-aos="fade")
-              p Podemos encontrar sinfín de información, tutoriales y elementos que ayudarán a construir líneas de texto, lo que con mucha práctica permitirá crear y programas estructuras complejas, pero lo realmente importante y lo que se debe asociar con un verdadero programador, es adquirir las destrezas que permiten crear de forma estructurada y precisa, coherente y sin errores.
+              p Podemos encontrar sinfín de información, tutoriales y elementos que ayudarán a construir líneas de texto, lo que con mucha práctica permitirá crear y programar estructuras complejas, pero lo realmente importante y lo que se debe asociar con un verdadero programador, es adquirir las destrezas que permiten crear de forma estructurada y precisa, coherente y sin errores.
               p Ahora, encontrar las verdaderas y únicas buenas prácticas no es posible, pero podemos encontrar una serie de parámetros a considerar al momento de programar:
 
         .col-lg-10(data-aos="zoom-in")

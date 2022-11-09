@@ -40,7 +40,7 @@
                 figure.mb-4
                   img(src="@/assets/curso/temas/t1/t1_03.svg", alt="alt").img90.m-auto
                 h3.text-white Servidor de desarrollo
-                p.text-white Aquí es donde se prueba el código y se comprueba si su ejecución es correcta; una vez que este avalado y se considera que trabaja de manera correcta, avanza a la siguiente fase.
+                p.text-white Aquí es donde se prueba el código y se comprueba si su ejecución es correcta; una vez que esté avalado y se considera que trabaja de manera correcta, avanza a la siguiente fase.
             .col-lg-4.mb-4.mb-lg-0(data-aos="flip-left")
               .bg--blue.p-4.brad_02.hg-100
                 figure.mb-4
@@ -147,7 +147,7 @@
         .bg--paleBlue.p-4.hg-100
           p.mb-0 Abordar los problemas que puede llevar la programación multimedia, van desde crear varias versiones para el mismo programa, hasta utilizar aplicaciones que ayudarán a adaptar el código a las plataformas o aplicaciones finales; dependerá mucho de la capacidad de costos, el tiempo para su desarrollo y de los enfoques que se vayan a solucionar al momento de construir código. Cabe resaltar que lo más importante para todas las versiones es reducir a cero los errores, por lo que se debe tener presente la corrección en cada una de las plataformas escogidas. 
 
-    p(data-aos="fade").mb-5 Depender de algún #[em software] que permita encontrar esos problemas existentes entre las diferencias de las plataformas o utilizar aplicaciones que permitan construir y ejemplificar la construcción ayudan al momento de visualizar serán herramientas que permitirán ahorrar tiempo al momento de solucionar y reconstruir el código. Aquí se relacionan algunas que pueden ser poderosas herramientas para el desarrollo en multiplataforma.
+    p(data-aos="fade").mb-5 Depender de algún #[em software] que permita encontrar esos problemas existentes entre las diferencias de las plataformas o utilizar aplicaciones que permitan construir y ejemplificar la construcción ayudan al momento de visualizar, serán herramientas que permitirán ahorrar tiempo al momento de solucionar y reconstruir el código. Aquí se relacionan algunas que pueden ser poderosas herramientas para el desarrollo en multiplataforma.
 
     .row.justify-content-center.mb-5(data-aos="fade")
        SlyderF.cstmSlyderF(columnas="col-lg-6 col-xl-4")
@@ -229,7 +229,7 @@
 
         .crd.crd--blue.hg-100         
           h4 wxWidgets
-          p.mb-0 Juego de herramientas #[em widget] de fuente abierta que es también un marco de aplicación. Se ejecuta en sistemas Unix con X11, Microsoft Windows y Mac OS X. Se permite que las aplicaciones escritas para usarlo para funcionar en todos los sistemas que lo soporta, si la aplicación no utiliza ningún sistema operativo específico de programación, además de a la misma.
+          p.mb-0 Es una biblioteca de C++ que permite a los desarrolladores crear aplicaciones para Windows, macOS, Linux y otras plataformas con una única base de código. Tiene enlaces de lenguaje populares para Python , Perl , Ruby y muchos otros lenguajes y, a diferencia de otros kits de herramientas multiplataforma, wxWidgets brinda a las aplicaciones una apariencia verdaderamente nativa porque utiliza la API nativa de la plataforma en lugar de emular la GUI. También es extenso, gratuito, de código abierto y maduro.
 
         .crd.crd--blue.hg-100         
           h4 XPower++
@@ -256,9 +256,9 @@
               | Todos los programas creados tienen opción de ser multiplataforma.
             li
               i.fa-li.fas.fa-check.clr--orange
-              | Se encuentra disponible tanto para los dispositivos móviles inteligente. Sin importar que sistema operativo esté utilizando el mismo.
+              | Se encuentra disponible tanto para los dispositivos móviles inteligente. Sin importar qué sistema operativo esté utilizando el mismo.
 
-    p(data-aos="fade").mb-4 #[span.clr--blue.bold AIR es un programa que establece flujos de trabajo compuestos por codificación y compilados en archivos instaladores], su facilidad en la aplicación de lenguajes y formatos permite un flujo más constante y permite detectar errores en los procesos, estos procesos de depurado y solución de errores siguen una serie lineamientos que permite realizar procesos más correctos; es un programa que trabaja de la mano con sus hermanos de la familia Adobe. En general, la creación de las aplicaciones será más eficiente usando las herramientas que proporcionen herramientas a los desarrolladores, para encontrar el sistema y el SDK adecuado, de no ser así la eficiencia de los resultados finales se verán afectados, como trabaja ejecutando la #[em web] como una aplicación de escritorio, la posibilidad de trabajar sin internet hace que compañías importantes hayan optado hacer uso de esta posibilidad. 
+    p(data-aos="fade").mb-4 #[span.clr--blue.bold AIR es un programa que establece flujos de trabajo compuestos por codificación y compilados en archivos instaladores], su facilidad en la aplicación de lenguajes y formatos permite un flujo más constante y permite detectar errores en los procesos, estos procesos de depurado y solución de errores siguen una serie de lineamientos que permite realizar procesos más correctos; es un programa que trabaja de la mano con sus hermanos de la familia Adobe. En general, la creación de las aplicaciones será más eficiente usando las herramientas que proporcionen herramientas a los desarrolladores, para encontrar el sistema y el SDK adecuado, de no ser así la eficiencia de los resultados finales se verán afectados, como trabaja ejecutando la #[em web] como una aplicación de escritorio, la posibilidad de trabajar sin internet hace que compañías importantes hayan optado hacer uso de esta posibilidad. 
 
     .row.justify-content-center.mb-5
       .col-lg-6(data-aos="zoom-in")
@@ -342,10 +342,10 @@
             figure
               img(src="@/assets/curso/temas/t1/t1_21.png", alt="alt")
 
-      .py-4.py-md-5(titulo="Layar" :icono="require('@/assets/curso/temas/t1/t1_19.svg')")
+      .py-4.py-md-5(titulo="ARToolKit" :icono="require('@/assets/curso/temas/t1/t1_19.svg')")
         .row.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
-            h4 Layar
+            h4 ARToolKit
             p ARToolKit permite superponer imágenes virtuales digitalizadas en el mundo real para crear programas y aplicaciones que se pueden visualizar en diferentes dispositivos de RA y RV; en pocas palabras, este SDK calcula en tiempo real un punto en una ubicación y una referencia de geolocalización; es decir, un marcador específico y su desplazamiento por el mundo.
             p.mb-0 Utiliza su infinidad de bibliotecas para realizar algoritmos que resuelven problemas como calcular posiciones, orientaciones de cámara, y desarrollo de elementos de RA. Dentro de sus múltiples características está su trabajo multiplataforma, su marcado cuadro a cuadro y sus bibliotecas de códigos de fuente a código abierto con licencia para uso no comercial.       
           .col-lg-6.col-8
@@ -362,7 +362,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/t1/t1_22.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los lenguajes están presentes en todas partes y en todas las máquinas que nos acompañan día a día y comprenden lenguajes diseñados para que todas las máquinas y computadoras puedan entender idiomas que puedan comprender entre ellas. Para esto se crea el lenguaje binario del que hemos venido tratando en diferentes temas, dado que estos lenguajes se encargan de convertir funciones e instrucciones en un lenguaje de ceros y unos para que puedan entenderse e interpretarse.
+        p.mb-0 Los lenguajes están presentes en todas partes y en todas las máquinas que nos acompañan día a día y comprenden lenguajes diseñados para que todas las máquinas y computadoras puedan entender idiomas que puedan comprender entre ellas. Para esto se crea el lenguaje binario del que hemos venido tratando en diferentes temas, dado que estos lenguajes se encargan de convertir funciones e instrucciones en un lenguaje de ceros (0) y unos (1) para que puedan entenderse e interpretarse.
 
     p(data-aos="fade").mb-5 Existen altos y bajos cuando nos referimos a los lenguajes de programación, permitiendo que se logren acciones con pocas palabras al hacer lo mismo que se logra con un lenguaje de bajo nivel. #[strong A continuación, conocerán un poco más de la temática:]
 
@@ -420,12 +420,12 @@
                 p.mb-0 Este lenguaje permite escribir códigos que sirven para ser ejecutados en idiomas como inglés y español, y son traducidos mediante “traductores o compiladores”; el traductor utiliza el lenguaje de programación, traduciéndola en lenguaje para máquinas y los ejecuta al final.           
 
 
-    p(data-aos="fade").mb-4 #[span.hglt--mint La finalidad y funcionalidad de los lenguajes es el programar; sin embargo, la diferencia es que cada uno tiene un alcance y una forma de comunicación diferentes], algo así como hablar inglés o francés o alemán. Se puede definir que el lenguaje de bajo nivel permite una comunicación con la máquina entendiendo sus códigos de operación y el lenguaje de alto nivel, es introducir datos y códigos en el lenguaje de las máquinas para facilitar instrucciones que se le dan a las máquinas; bajo nivel es un idioma cercado a las máquinas, un alto nivel es un entendimiento e idioma más humano.
+    p(data-aos="fade").mb-4 #[span.hglt--mint La finalidad y funcionalidad de los lenguajes es el programar; sin embargo, la diferencia es que cada uno tiene un alcance y una forma de comunicación diferentes], algo así como hablar inglés o francés o alemán. Se puede definir que el lenguaje de bajo nivel permite una comunicación con la máquina entendiendo sus códigos de operación y el lenguaje de alto nivel, es introducir datos y códigos en el lenguaje de las máquinas para facilitar instrucciones que se le dan a las máquinas; bajo nivel es un idioma cercano a las máquinas, un alto nivel es un entendimiento e idioma más humano.
 
     .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0(data-aos="fade")
         p #[span.clr--blue.bold Comprendiendo esta diferenciación, se entiende que el conjunto de herramientas permite diferentes acciones como crear, escribir, mantener, depurar, etc.]
-        p Algunos #[em software] permiten escribir códigos y crearlos, otros simplemente ingresarlos y ejecutarlos, otros optimizan tiempos y monitorean variables, referencias memorias y ayudan a las correcciones de errores de código. Estos lenguajes permiten la comunicación con el #[em software] y acá se indica todo lo que se quiere que una página haga, se vea y realice determinadas acciones. 
+        p Algunos #[em software] permiten escribir códigos y crearlos, otros simplemente ingresarlos y ejecutarlos, otros optimizan tiempos y monitorean variables, referencian memorias y ayudan a las correcciones de errores de código. Estos lenguajes permiten la comunicación con el #[em software] y acá se indica todo lo que se quiere que una página haga, se vea y realice determinadas acciones. 
       .col-lg-4.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t1/t1_26.svg", alt="alt")
@@ -471,7 +471,7 @@
           .col-lg-7.mb-4.mb-lg-0
             h4 CSS 
             p Hojas de estilo en cascada, básicamente es un lenguaje de programación que determina cómo deben aparecer los elementos antes mencionados en una página #[em web]. Son una lista de reglas que asignan propiedades a las etiquetas HTML sean específicas, de documento, de diseño, etc.
-            p.mb-0 Ambos lenguajes son herramientas complementarias la una a la otra, por una parte uno estructura y otro lado otro diseña el contenido, ambos trabajando de la mano, pero separados, para garantizar el mejor funcionamiento de cada una de las partes. 
+            p.mb-0 Ambos lenguajes son herramientas complementarias la una a la otra, por una parte uno estructura y el otro diseña el contenido, ambos trabajando de la mano, pero separados, para garantizar el mejor funcionamiento de cada una de las partes. 
 
           .col-lg-5
             figure

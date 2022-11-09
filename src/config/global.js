@@ -170,7 +170,7 @@ export default {
     },
     {
       tema: 'Herramientas de Programación',
-      referencia: 'EDTeam. (2018). <em>FrameWork</em>vs Librería.',
+      referencia: 'EDTeam. (2018). <em>FrameWork</em> vs Librería.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=A-iKX8Shge4',
     },
@@ -245,7 +245,7 @@ export default {
     {
       termino: 'Scrum',
       significado:
-        'proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto.(Proyectos ágiles, 2021)',
+        'proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto. (Proyectos ágiles, 2021)',
     },
     {
       termino: 'SEO',
@@ -255,7 +255,7 @@ export default {
     {
       termino: '<em>Sprint</em>',
       significado:
-        'nombre que va a recibir cada uno de los ciclos o iteraciones que vamos a tener dentro de dentro de un proyecto Scrum (Opern Webinars, 2018).',
+        'nombre que va a recibir cada uno de los ciclos o iteraciones que vamos a tener dentro de un proyecto Scrum (Opern Webinars, 2018).',
     },
     {
       termino: 'Unicode',
@@ -304,7 +304,7 @@ export default {
     },
     {
       referencia:
-        'Rock Content. (2021). Conoce el método Kanban para organizar y aumentar la productividad de tu negocioSEO: la guía completa para que conquistes la cima de Google en el 2021. ',
+        'Rock Content. (2021). SEO: la guía completa para que conquistes la cima de Google en el 2022. ',
       link: 'https://rockcontent.com/es/blog/que-es-seo/',
     },
     {
